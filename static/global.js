@@ -10,10 +10,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     let pages = [
-        { url: "https://heytian.github.io/my_works", title: "Home" },
-        { url: "https://heytian.github.io/my_works/projects", title: "Projects" },
-        { url: "https://heytian.github.io/my_works/contact", title: "Contact" },
-        { url: "https://heytian.github.io/my_works/cv", title: "CV" },
+        { url: "/my_works", title: "Home" },
+        { url: "/my_works/projects", title: "Projects" },
+        { url: "/my_works/contact", title: "Contact" },
+        { url: "/my_works/cv", title: "CV" },
         { url: "https://github.com/heytian", title: "Github" }
     ];
 
