@@ -1,7 +1,7 @@
 [
     {
         "title": "Visualizing Corporate vs. Live-in Landlords",
-        "image": "./images/A2_Over_Time.jpg",
+        "image": "/images/A2_Over_Time.jpg",
         "description": "An exploratory analysis of the relationships between corporate ownership rates, owner occupancy rates and demographics in Boston neighborhoods over the time period of 2004-2024."
     },
     {
